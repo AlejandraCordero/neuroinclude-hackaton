@@ -1,0 +1,6 @@
+{
+  "name": "NEUROINCLUDE - Neurotecnología y Bienestar Cognitivo",
+  "description": "Plataforma de neurotecnología, exploración cognitiva y educación inclusiva basada en fortalezas para Hacktoberfest Hack Day La Paz × NeuroTech UMSA 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
