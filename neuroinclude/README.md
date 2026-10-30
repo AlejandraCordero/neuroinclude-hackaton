@@ -16,8 +16,7 @@ Prototipo desarrollado para el **Hacktoberfest Hack Day La Paz × NeuroTech UMSA
 ## 🎯 2. Categorías a las que Postula
 El proyecto cumple con los requisitos y postula formalmente a las siguientes categorías del evento:
 
-1. **Best Open-Source AI Project (DigitalOcean):** Implementación de una arquitectura ligera y descentralizada basada en herramientas y modelos de código abierto/pesos abiertos para procesar métricas cognitivas sin depender de infraestructura privativa.
-2. **Best Use of Gemma 4 (Google):** Integración del ecosistema de modelos abiertos Gemma para la síntesis de perfiles cognitivos, explicación pedagógica en lenguaje sencillo y generación de recomendaciones orientadas a fortalezas.
+**Best Use of Gemma 4 (Google):** Integración del ecosistema de modelos abiertos Gemma para la síntesis de perfiles cognitivos, explicación pedagógica en lenguaje sencillo y generación de recomendaciones orientadas a fortalezas.
 
 ---
 
